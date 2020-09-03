@@ -1,1 +1,1 @@
-"# mit-6.006-document-distance" 
+Updated python3 code for the document distance problem performance tuning
